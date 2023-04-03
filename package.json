@@ -1,0 +1,14 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "primera actividad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Suarez CI:30148370 Sección 1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
